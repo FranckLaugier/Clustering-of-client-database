@@ -1,11 +1,11 @@
-# P5_e-commerce_customers_clustering
+# P5 - Clustering des clients d'un site de e-commerce
 
 # <a name="C1">Présentation</a>
 
 Je suis consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
 ***
-### Le besoin de olist
+### Le besoin de Olist
 
 Olist souhaite que je fournisse à ses équipes d'e-commerce __une segmentation des clients__ qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 
