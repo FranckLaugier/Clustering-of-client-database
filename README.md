@@ -1,4 +1,4 @@
-# P5 - Clustering des clients d'un site de e-commerce
+Clustering des clients d'un site de e-commerce
 
 # <a name="C1">Présentation</a>
 
